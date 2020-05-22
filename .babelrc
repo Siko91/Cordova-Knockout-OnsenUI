@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    ["transform-object-assign"],
+    ["syntax-dynamic-import"]
+  ],
+  "presets": [
+    [ "es2015", {
+      "modules": false }
+    ]
+  ]
+}

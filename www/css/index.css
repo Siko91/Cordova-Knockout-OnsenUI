@@ -1,0 +1,25 @@
+ons-splitter-side[side="left"][animation="overlay"] {
+    border-right: 1px solid #bbb;
+}
+
+.darkTheme a {
+    color: gold;
+}
+
+.darkTheme a:visited {
+    color: gold;
+}
+
+.storyContent img {
+    max-width: 90% !important;
+    display: block !important;
+    margin: auto !important;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.paddedContent {
+    padding: 0 1rem;
+}
